@@ -11,7 +11,9 @@
 | ClimStudio |  | [JustFocus](#JustFocus) | 시간 관리 툴 | 뽀모도로 타이머로 브레이크 시간이 되면 자동으로 화면이 페이드아웃 된다  |[JustFocus](http://getjustfocus.com) 혹은 [AppStore](https://apps.apple.com/us/app/just-focus/id1142151959?mt=12)|
 | [noiz.io](https://noiz.io/) |  | [Noizio for macOS, iOS](#Noizio-for-macOS,-iOS) | 백색 소음 | 상용, 자연의 소리, 소리 믹스로 원하는 소음 조합 가능 | [홈페이지](https://noiz.io/)|
 | [Atlassian](https://www.atlassian.com/) | 🖼 | [SourceTree](#sourcetree) | Git GUI tool | GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 프로그램 | [홈페이지](https://www.sourcetreeapp.com/) |
-|[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)|🖼|[Dev-C++](#devc++)|C,C++통합개발환경|프리웨어, 디버깅, gcc확장가능|[Download](https://sourceforge.net/projects/orwelldevcpp/)|
+|[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)|🖼|[Dev-C++](#devc++)|C,C++통합개발환경|프리웨어, 디버깅, gcc확장가능|[Download](https://sourceforge.net/projects/orwelldevcpp/)
+|[WOX](http://www.wox.one/)|🖼|[WOX](#wox)|런처|파일 및 폴더 탐색, 웹 서칭, 시스템 명령 실행이 가능한 런처 프로그램| [Download](https://github.com/Wox-launcher/Wox/releases)|
+
 
 
 ## Visual Studio Code
@@ -73,4 +75,9 @@ Atlassian에서 개발한 GIT을 GUI로 사용자가 더 쉽게 사용할 수 �
 
 [설명출처](https://ko.wikipedia.org/wiki/Dev-C%2B%2B)
 
+## Wox
+
+Wox는 윈도우용 퀵 런쳐입니다. 오픈소스 프로젝트로 개발되었으며 Github에 저장소가 있습니다.
+컴퓨터의 파일 및 디렉토리를 빠르게 찾을 수 있게 도와주고, 웹 검색도 가능합니다.
+여러 플러그인도 존재해 다양하게 사용 할 수 있습니다.
 
