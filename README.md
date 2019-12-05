@@ -12,7 +12,7 @@
 | [noiz.io](https://noiz.io/) |  | [Noizio for macOS, iOS](#Noizio-for-macOS,-iOS) | 백색 소음 | 상용, 자연의 소리, 소리 믹스로 원하는 소음 조합 가능 | [홈페이지](https://noiz.io/)|
 | [Atlassian](https://www.atlassian.com/) | 🖼 | [SourceTree](#sourcetree) | Git GUI tool | GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 프로그램 | [홈페이지](https://www.sourcetreeapp.com/) |
 |[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)|🖼|[Dev-C++](#devc++)|C,C++통합개발환경|프리웨어, 디버깅, gcc확장가능|[Download](https://sourceforge.net/projects/orwelldevcpp/)
-|[WOX](http://www.wox.one/)|🖼|[WOX](#wox)|런처|파일 및 폴더 탐색, 웹 서칭, 시스템 명령 실행이 가능한 런처 프로그램| [Download](https://github.com/Wox-launcher/Wox/releases)|
+|[Wox](http://www.wox.one/)|🖼|[Wox](#Wox)|런처|파일 및 폴더 탐색, 웹 서칭, 시스템 명령 실행이 가능한 런처 프로그램| [Download](https://github.com/Wox-launcher/Wox/releases)|
 
 
 
